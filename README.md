@@ -1,6 +1,6 @@
 # Simple-editor-NotePad-PyQt6
 
-## Gui-PyQt6-App:
+## Take a look at the test video in Results
 
 #### Result:
 ![img](https://github.com/MohammadSayed02/Simple-editor-NotePad-PyQt6/blob/main/Results/Result.gif?raw=true)
