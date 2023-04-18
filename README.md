@@ -1,4 +1,4 @@
-# Full-editor-NotePad--PyQt6-Desktop-App
+# Full-editor-NotePad-PyQt6-Desktop-App
  
  
  
